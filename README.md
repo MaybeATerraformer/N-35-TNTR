@@ -1,5 +1,1 @@
-# N-35 Trimodal Nuclear Thermal Rocket "TNTR"
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+# N-35 Trimodal Nuclear Thermal Rocket "TNTR" <img src="https://img.shields.io/badge/License-GPL_3-blue">
