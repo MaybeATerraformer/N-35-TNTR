@@ -9,3 +9,6 @@ The N-35 is a theoretical **TRImodal** thermonuclear engine that aims to facilit
 * [Understanding BNTR²](https://ntrs.nasa.gov/api/citations/20040182399/downloads/20040182399.pdf)
 * [Understanding TNTR¹](https://scispace.com/pdf/triton-a-trimodal-capable-thrust-optimized-nuclear-1htoly0jgm.pdf)
 * [Understanding N-35](https://ntrs.nasa.gov/api/citations/20130012505/downloads/20130012505.pdf)
+
+# About 
+The N-35 was designed to be a more powerful nuclear engine than a bimodal engine, having greater thrust and ISP. In addition, it does not need many radiators to function properly due to its cooling through LH2. The propulsion modes that give the name TRImodal to this engine are the following: *LH2* propulsion; *LH2 + LOX* propulsion; *LH2 + LOX + Kr (or Xe)* propulsion.
